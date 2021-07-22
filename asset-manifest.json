@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jogy1011/openscope/static/css/main.a363bff6.chunk.css",
+    "main.js": "/jogy1011/openscope/static/js/main.4959c26f.chunk.js",
+    "main.js.map": "/jogy1011/openscope/static/js/main.4959c26f.chunk.js.map",
+    "runtime-main.js": "/jogy1011/openscope/static/js/runtime-main.ed44d100.js",
+    "runtime-main.js.map": "/jogy1011/openscope/static/js/runtime-main.ed44d100.js.map",
+    "static/js/2.0dbf9e42.chunk.js": "/jogy1011/openscope/static/js/2.0dbf9e42.chunk.js",
+    "static/js/2.0dbf9e42.chunk.js.map": "/jogy1011/openscope/static/js/2.0dbf9e42.chunk.js.map",
+    "static/js/3.e419aa42.chunk.js": "/jogy1011/openscope/static/js/3.e419aa42.chunk.js",
+    "static/js/3.e419aa42.chunk.js.map": "/jogy1011/openscope/static/js/3.e419aa42.chunk.js.map",
+    "index.html": "/jogy1011/openscope/index.html",
+    "static/css/main.a363bff6.chunk.css.map": "/jogy1011/openscope/static/css/main.a363bff6.chunk.css.map",
+    "static/js/2.0dbf9e42.chunk.js.LICENSE.txt": "/jogy1011/openscope/static/js/2.0dbf9e42.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jogy1011/openscope/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed44d100.js",
+    "static/js/2.0dbf9e42.chunk.js",
+    "static/css/main.a363bff6.chunk.css",
+    "static/js/main.4959c26f.chunk.js"
+  ]
+}
